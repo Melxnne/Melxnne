@@ -10,6 +10,4 @@ Ich liebe es, spannende Projekte umzusetzen und dabei clevere Lösungen für kre
 
 🌱 Lerne gerade: UI-Entwicklung mit Tailwind CSS und DaisyUI.
 
-📫 Kontakt: Über GitHub oder Discord: melonne
-
-👾 Fun Fact: Wenn ich mal nicht codiere, designe ich gerne Logos und arbeite am Mapping, um kreative Umgebungen zu schaffen, die das Spielerlebnis noch immersiver machen!
+👾 Fun Fact: Wenn ich mal nicht code, designe ich gerne Logos und arbeite an Maps, um kreative Umgebungen zu schaffen, die das Spielerlebnis noch immersiver machen!
